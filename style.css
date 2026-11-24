@@ -1,0 +1,23 @@
+#nav-list{
+	display:flex;
+	justify-content: space-between;
+	list-style-type: none;
+}
+a{
+	text-decoration: none;
+}
+:root {
+  --primary-bg-color: #8FBC8F;
+  --primary-color: #FFFAF0;
+}
+
+body {
+  background-color: var(--primary-bg-color);
+}
+img{ 
+	height:auto;
+	width: 500px;
+}
+vdo{
+	margin: 100;
+}
